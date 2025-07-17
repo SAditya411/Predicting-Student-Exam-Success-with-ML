@@ -69,5 +69,5 @@ Make sure you add these plots as images in your `images/` folder and update the 
 | Random Forest       | 0.88     | 0.87     |
 | SVM                 | 0.86     | 0.85     |
 
-## 📂 Project Structure
+
 
