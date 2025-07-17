@@ -41,7 +41,7 @@ The dataset used is `StudentsPerformance.csv` and includes:
 Make sure you add these plots as images in your `images/` folder and update the paths below:
 
 - Score distribution by gender  
-  ![](images/gendeSr_score_distribution.png)
+  ![](images/gender_score_distribution.png)
 - Impact of test preparation course  
   ![](images/test_prep_impact.png)
 - Correlation heatmap  
